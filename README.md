@@ -61,8 +61,3 @@ Errors are handled using the `ErrorHandler` middleware, which returns appropriat
 - [Sugumaran](https://github.com/Maran077)
 
 Feel free to contribute by submitting bug reports, feature requests, or pull requests.
-
-```
-
-```
-"# diary-app-backend-server" 
